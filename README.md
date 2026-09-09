@@ -47,4 +47,4 @@ This project analyzes the [Olist Brazilian E-Commerce dataset](https://www.kaggl
 
 
 ![Average Review Score by Delivery Status](avg_review.png)
-![Percent Late Deliveries by State](%late_deliveries.png)
+![Percent Late Deliveries by State](pct_late_by_state.png)
